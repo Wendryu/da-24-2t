@@ -106,7 +106,7 @@ console.log(condicão2)//resultado true
 const condição3 = 3 > 2
 console.log(condição3)//resultado true
 */
-
+/*
 const numero1 = 10
 const numero2 = 5
 
@@ -114,3 +114,17 @@ console.log("o primeiro mumero é igual ao segundo ?", numero1 == numero2)//fals
 console.log("o primeiro numero é diferente do segundo ?", numero1 == numero2)//true
 console.log("o primeiro numero é maior que o segundo ?", numero1 == numero2)//true
 console.log("o primeiro numero é menor que o segundo ?")//false
+*/
+/*
+console.log(resultado)
+
+let resultado = 100
+
+resultado + resultado + 10
+console.log(resultado)
+
+let resultado1 = 100
+resultado1 = 10
+
+console.log(resultado1)
+*/
