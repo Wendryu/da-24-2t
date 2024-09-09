@@ -76,4 +76,3 @@ console.log(comidas)[2]
 console.log(comidas)[3]
 console.log(comidas)[4]
 */
-
